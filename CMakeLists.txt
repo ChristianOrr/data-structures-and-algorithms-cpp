@@ -30,5 +30,6 @@ enable_testing()
 include(GoogleTest)
 
 add_subdirectory(./arrays)
+add_subdirectory(./strings)
 
 
