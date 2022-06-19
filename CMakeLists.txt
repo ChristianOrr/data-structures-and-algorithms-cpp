@@ -35,5 +35,5 @@ add_subdirectory(./linked_lists)
 add_subdirectory(./binary_trees)
 add_subdirectory(./graphs)
 add_subdirectory(./recursion)
-
+add_subdirectory(./searching)
 
