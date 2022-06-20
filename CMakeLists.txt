@@ -37,4 +37,4 @@ add_subdirectory(./graphs)
 add_subdirectory(./recursion)
 add_subdirectory(./searching)
 add_subdirectory(./greedy)
-
+add_subdirectory(./two_pointers)
