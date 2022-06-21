@@ -6,3 +6,4 @@ project(LinkedLists
 )
 
 add_subdirectory(./reverse_linked_list)
+add_subdirectory(./merge_linked_lists)
