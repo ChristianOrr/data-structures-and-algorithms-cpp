@@ -6,3 +6,4 @@ project(Strings
 )
 
 add_subdirectory(./valid_anagram)
+add_subdirectory(./group_anagrams)
