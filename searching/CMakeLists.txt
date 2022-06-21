@@ -6,3 +6,4 @@ project(Searching
 )
 
 add_subdirectory(./binary_search)
+add_subdirectory(./search_shifted_sorted_array)
