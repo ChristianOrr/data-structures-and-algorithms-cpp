@@ -6,3 +6,4 @@ project(TwoPointers
 )
 
 add_subdirectory(./valid_palindrome)
+add_subdirectory(./three_sum)
