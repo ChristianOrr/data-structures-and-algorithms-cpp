@@ -6,3 +6,4 @@ project(Graphs
 )
 
 add_subdirectory(./depth_first_search)
+add_subdirectory(./number_of_islands)
