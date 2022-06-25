@@ -7,3 +7,4 @@ project(BinaryTrees
 
 add_subdirectory(./branch_sums)
 add_subdirectory(./invert_binary_tree)
+add_subdirectory(./max_depth_binary_tree)
