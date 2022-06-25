@@ -7,3 +7,4 @@ project(Searching
 
 add_subdirectory(./binary_search)
 add_subdirectory(./search_shifted_sorted_array)
+add_subdirectory(./find_min_in_shifted_sorted_array)
