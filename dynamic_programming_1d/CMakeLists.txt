@@ -7,3 +7,4 @@ project(DynamicProgramming
 
 add_subdirectory(./climbing_stairs)
 add_subdirectory(./house_robber)
+add_subdirectory(./coin_change)
