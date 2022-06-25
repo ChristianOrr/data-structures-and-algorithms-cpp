@@ -25,7 +25,7 @@ Constraints:
 1 <= n <= 45
 
 Solution 1
-Time Complexity: O(log(n)), space complexity: O(n) - n is number of nodes
+Time Complexity: O(n), space complexity: O(n)
 Strategy:
 Same as fibonacci numbers.
 Keep hash map with keys: containing n, and values: distinct ways to reach n.
