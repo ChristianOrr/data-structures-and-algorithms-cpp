@@ -7,3 +7,4 @@ project(LinkedLists
 
 add_subdirectory(./reverse_linked_list)
 add_subdirectory(./merge_linked_lists)
+add_subdirectory(./remove_nth_node_from_end_of_list)
