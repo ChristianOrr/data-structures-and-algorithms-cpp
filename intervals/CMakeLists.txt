@@ -6,4 +6,4 @@ project(Intervals
 )
 
 add_subdirectory(./insert_interval)
-
+add_subdirectory(./merge_intervals)
